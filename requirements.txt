@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit==1.24.0
+pandas==1.5.3
+openai==0.28.0
+plotly==5.15.0
+asyncio==3.4.3
+python-dotenv==1.0.0
